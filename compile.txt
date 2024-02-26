@@ -1,0 +1,1 @@
+https://github.com/etolnay/sqlite-odbc/blob/master/doc/compile-for-windows.md
